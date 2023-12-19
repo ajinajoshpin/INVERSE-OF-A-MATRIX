@@ -15,6 +15,7 @@ Using the np.linalg.inv() , we can find the rank of the given matrix
 end program
 ## Program:
 '''
+
 #Program to find the inverse of a matrix.
 
 #Developed by: Ajina joshpin
@@ -22,6 +23,7 @@ end program
 #RegisterNumber:23013547
 
 '''
+
 import numpy as np
 
 a=([[2,1,1],[1,1,1],[1,-1,2]])
